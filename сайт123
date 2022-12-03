@@ -13,8 +13,38 @@
 <br>
 <table>
 <tr>
-<td></td>
-</tr>
-</table>
+<td align = "left">
+<ol>
+<li><b>Участник #1 </b> -Оскар.A</li>
+<li><b>Участник #2 </b> -Егор.С</li>
+</ol></td></tr></table>
+
+<table>
+<tr>
+<td align="left">
+<ul type="circle">
+<li><font color="orange"><u>Рисунки</u></font></li></td></tr></table>
+ 
+ <table>
+<tr>
+<td align = "left">
+<ol>
+<li><b>Участник #3 </b> -Артём.В</li>
+<li><b>Участник #4 </b> -Вадим.Б</li>
+</ol></td></tr></table>
+
+<h1 align="center"><u>Стихи></u></i></h1>
+<br>
+
+<table border="2" align="center">
+<tr>
+<th><font color="black" size="3" align="center">Мороз и солнце; день чудесный!<br>
+Еще ты дремлешь, друг прелестный<br> 
+—Пора, красавица, проснись:<br>
+Открой сомкнуты негой взоры<br> 
+Навстречу северной Авроры,<br>
+Звездою севера явись!</font></th></tr></table>
+ 
+
 </body>
 </html>
